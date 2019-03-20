@@ -1,4 +1,4 @@
-package Perosna;
+package Persona;
 
 import java.util.Scanner;
 

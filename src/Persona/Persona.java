@@ -1,4 +1,4 @@
-package Perosna;
+package Persona;
 public class Persona {
 	//atributos
 	String nombre;

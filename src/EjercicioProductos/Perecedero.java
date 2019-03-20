@@ -1,4 +1,4 @@
-package Ejercicio_Productos;
+package EjercicioProductos;
 
 public class Perecedero extends Producto {
 	 private int dias_aCaducar;

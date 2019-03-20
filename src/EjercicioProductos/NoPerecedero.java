@@ -1,4 +1,4 @@
-package Ejercicio_Productos;
+package EjercicioProductos;
 
 public class NoPerecedero extends Producto {
 	  private String tipo;

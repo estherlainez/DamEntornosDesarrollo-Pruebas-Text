@@ -1,4 +1,4 @@
-package Perosna;
+package Persona;
 
 import static org.junit.jupiter.api.Assertions.*;
 

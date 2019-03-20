@@ -1,4 +1,4 @@
-package Ejercicio_Productos;
+package EjercicioProductos;
 import java.util.Scanner;
 public class ProductoMain {
 
